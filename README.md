@@ -1,1 +1,1 @@
-# poker-project
+University project IA
